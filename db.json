@@ -1,4 +1,7 @@
 {
+    "themeOneScrollupSection": {
+        "iconClass": "fas fa-arrow-up"
+    },
     "themeOneSwitcherSection": {
         "title": "Gradient Colors",
         "demoTitle": "Theme Demos",
