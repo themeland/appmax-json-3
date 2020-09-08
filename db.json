@@ -75,32 +75,32 @@
             },
             {
                 "id": 14,
-                "link": "/blog-1",
+                "link": "/blog-two-column",
                 "image": "/img/blog_1.jpg"
             },
             {
                 "id": 15,
-                "link": "/blog-2",
+                "link": "/blog-three-column",
                 "image": "/img/blog_2.jpg"
             },
             {
                 "id": 16,
-                "link": "/blog-4",
+                "link": "/blog-left-sidebar",
                 "image": "/img/blog_3.jpg"
             },
             {
                 "id": 17,
-                "link": "/blog-4",
+                "link": "/blog-right-sidebar",
                 "image": "/img/blog_4.jpg"
             },
             {
                 "id": 18,
-                "link": "/blog-5",
+                "link": "/blog-details-left-sidebar",
                 "image": "/img/blog_5.jpg"
             },
             {
                 "id": 19,
-                "link": "/blog-6",
+                "link": "/blog-details-right-sidebar",
                 "image": "/img/blog_6.jpg"
             }
         ],
