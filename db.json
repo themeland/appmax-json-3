@@ -76,32 +76,32 @@
             {
                 "id": 14,
                 "link": "/blog-two-column",
-                "image": "/img/blog_1.jpg"
+                "image": "/img/blog_thumb_1.jpg"
             },
             {
                 "id": 15,
                 "link": "/blog-three-column",
-                "image": "/img/blog_2.jpg"
+                "image": "/img/blog_thumb_2.jpg"
             },
             {
                 "id": 16,
                 "link": "/blog-left-sidebar",
-                "image": "/img/blog_3.jpg"
+                "image": "/img/blog_thumb_3.jpg"
             },
             {
                 "id": 17,
                 "link": "/blog-right-sidebar",
-                "image": "/img/blog_4.jpg"
+                "image": "/img/blog_thumb_4.jpg"
             },
             {
                 "id": 18,
                 "link": "/blog-details-left-sidebar",
-                "image": "/img/blog_5.jpg"
+                "image": "/img/blog_thumb_5.jpg"
             },
             {
                 "id": 19,
                 "link": "/blog-details-right-sidebar",
-                "image": "/img/blog_6.jpg"
+                "image": "/img/blog_thumb_6.jpg"
             }
         ],
         "innerData": [
